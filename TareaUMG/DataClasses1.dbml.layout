@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="00f1d026-0774-48a9-89ac-e2503f3ab4d3" absoluteBounds="3, 1.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DataClasses1DataContext/CLIENTES" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4366da56-e796-43bb-982d-7c987f8a7726" absoluteBounds="3.015, 1.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c632c941-b942-4dd2-b422-1c760f12d71a" absoluteBounds="0.5, 0.625, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DataClasses1DataContext/PRODUCTOS" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e32b41bb-3e64-4c73-9f39-c0102988ecba" absoluteBounds="0.51500000000000012, 1.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e17c7552-46e9-4923-84ff-c41b1081a1c6" absoluteBounds="6.25, 1.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DataClasses1DataContext/PROVEEDORES" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7eea64e5-9ec5-4637-b5b4-28084b1f9e16" absoluteBounds="6.265, 2.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
